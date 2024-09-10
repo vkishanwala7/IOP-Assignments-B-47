@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
+//This program will check if a character is upper case letter or lower case letter or not a letter
 int main()
 {
   char c;
