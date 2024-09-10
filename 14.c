@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-//
+//This program will check a character is alphabet (upper or lower case), number or a special character
 int main()
 {
     char ch;
